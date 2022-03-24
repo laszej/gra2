@@ -6,7 +6,7 @@ const restartBtn = document.getElementById("restartBtn")
 
 const passwords = ["polska", "ukraina", "rosja", "niemcy", 
 "francja", "nigeria", "etiopia", "kambodża", "wietnam", "erytrea",
- "uzbekistan", "panama", "finlandia", "szwecja", "watykan", "Stany zjednoczone"]
+ "uzbekistan", "panama", "finlandia", "szwecja", "watykan", "stany zjednoczone"]
 
 const letters = [" ", "a", "ą","b", "c", "ć", "d", "e", "ę", "f", "g",
  "h", "i", "j", "k", "l", "ł", "m", "n", "ń", "o", "ó", "p", "r", "s", "ś",
